@@ -3,30 +3,10 @@
 
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
-
-
-
-
 ![Gradio](https://img.shields.io/badge/Gradio-Frontend-orange)
-
-
-
-
 ![ML](https://img.shields.io/badge/Machine%20Learning-Enabled-purple)
-
-
-
-
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-blue)
-
-
-
-
 ![Status](https://img.shields.io/badge/Status-Active-success)
-
-
-
-
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 
